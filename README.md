@@ -3,4 +3,6 @@ In the repository I'll try to add all of my programs which I have been doing sin
 
 ## Content
 
-[Isprime.py](https://github.com/1darshanpatil/LoveYouTkinter/blob/main/Isprime.py)
+| Index | Name |
+|---|---|
+|1| [Isprime.py](https://github.com/1darshanpatil/LoveYouTkinter/blob/main/Isprime.py) |
